@@ -1,0 +1,47 @@
+p{
+    font-weight: bold;
+    font-size: 25 px ;
+ }
+ 
+ .center{
+    text-align: center;
+    align-content: center;
+ }
+
+ .sub{
+     color: antiquewhite;
+     font-size: smaller;
+ }
+
+ .bold{
+    font-weight: bold;
+ }
+ 
+head{
+    background-color: burlywood;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: brown;
+     text-decoration:underline;
+     border: 5px solid antiquewhite;
+     margin: 40px;
+     padding: 20px;
+   text-align: center;
+}
+
+ body{
+     background-color: burlywood;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: brown;
+     border: 5px solid antiquewhite;
+     margin: 40px;
+     padding: 20px;
+     text-align: left;
+ }
+ 
+ ol{
+     list-style-position: inside;
+ }
+ 
+ ul{
+ list-style-position: inside;
+ }
